@@ -14,5 +14,6 @@ If you have Python installed, you can run a local server:
 
 ```bash
 python3 -m http.server 8000
+```
 
 Then open your browser to [http://localhost:8000](http://localhost:8000)
