@@ -1,5 +1,7 @@
 # jsrenderer
 
+<img width="972" height="700" alt="image" src="https://github.com/user-attachments/assets/c86e97e4-3dce-4d9c-a74a-5b13badfaadd" />
+
 A simple 3D renderer written in plain JavaScript. It uses:
 
 - [regl](https://github.com/regl-project/regl) for WebGL rendering  
